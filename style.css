@@ -314,6 +314,8 @@ header .navbar ul li a:hover {
     height: 100%;
     width: 100%;
     object-fit: cover;
+    border: 2px solid var(--blue);
+    border-radius: 50px;
 }
 
 .projects .box-container .box:hover img {
